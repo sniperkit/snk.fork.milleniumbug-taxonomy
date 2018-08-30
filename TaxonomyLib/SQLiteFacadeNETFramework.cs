@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 ﻿using System.Data;
 using System.Data.Common;
 using System.Data.SQLite;

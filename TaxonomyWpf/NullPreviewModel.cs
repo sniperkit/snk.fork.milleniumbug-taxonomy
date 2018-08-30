@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 ﻿namespace TaxonomyWpf
 {
 	class NullPreviewModel : FilePreviewModel
